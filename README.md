@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo Dhanglerson Souza Barral!
+# 👋 Dhanglerson Souza Barral! 💻
 
 **`Desenvolvedor Web`**
 
