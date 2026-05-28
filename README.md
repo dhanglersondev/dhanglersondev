@@ -55,6 +55,13 @@ Tenho 30 anos e sou natural de Minas Gerais. Sou formado em **Análise e Desenvo
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
     <img 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+    <img 
     alt="Firebase" 
     title="Firebase"
     width="40px" 
