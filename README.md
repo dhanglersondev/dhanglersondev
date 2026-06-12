@@ -55,6 +55,12 @@ Tenho 30 anos e sou natural de Minas Gerais. Sou formado em **Análise e Desenvo
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
+    alt="Node.js" 
+    title="Node.js"
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
     alt="React" 
     title="React"
     width="40px" 
