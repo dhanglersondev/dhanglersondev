@@ -27,6 +27,21 @@ Tenho 30 anos e sou natural de Minas Gerais. Sou formado em **Análise e Desenvo
 
 <p align="left">
 <img 
+    alt="Java"
+    title="Java" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    alt="Spring Boot"
+    title="Spring Boot" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
     alt="HTML"
     title="HTML" 
     width="40px" 
