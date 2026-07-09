@@ -43,31 +43,12 @@ Atualmente concentro meus estudos e projetos em **Java**, **Spring Boot**, APIs 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" title="Spring Boot"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" title="NodeJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" title="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" title="Tailwind CSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" title="Firebase"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" title="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" title="GitHub"/>
-
-</p>
-
----
-
-# 📊 Estatísticas
-
-<p align="center">
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=dhanglersondev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanglersondev&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
 
 </p>
 
@@ -76,10 +57,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanglersond
 # 🔥 Sequência de Contribuições
 
 <p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=dhanglersondev&theme=tokyonight&locale=pt_BR"/>
-
+    <img src="https://streak-stats.demolab.com?user=dhanglersondev&theme=tokyonight&locale=pt_BR"/>
 </p>
 
 ---
@@ -87,10 +65,7 @@ src="https://streak-stats.demolab.com?user=dhanglersondev&theme=tokyonight&local
 # 📈 Gráfico de Atividade
 
 <p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=dhanglersondev&theme=tokyo-night&hide_border=true"/>
-
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanglersondev&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -101,21 +76,10 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=dhanglersond
 - 🌱 Spring Boot
 - 🔐 Spring Security
 - 🗄️ JPA / Hibernate
-- 🐬 MySQL
 - 🐘 PostgreSQL
-- 🐳 Docker
 - ☁️ APIs REST
-- 🧪 Testes com JUnit e Mockito
+- 🧪 JUnit e Mockito
 
 ---
 
-# 📫 Contato
-
-📧 **dhanglerson.dev@outlook.com**
-
-💼 **LinkedIn**
-https://www.linkedin.com/in/dhanglerson-barral-b04366409/
-
----
-
-⭐ Se gostou dos meus projetos, deixe uma estrela nos repositórios!
+⭐ Obrigado por visitar meu perfil!
