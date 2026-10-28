@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou Dhanglerson Souza Barral!
 
-**`Desenvolvedor Back-end | Java & Spring Boot`**
+**`Desenvolvedor Web | Desenvolvedor Java & Spring Boot`**
 
 Tenho 30 anos e sou natural de Minas Gerais. Sou formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Anhanguera.
 
-Atualmente concentro meus estudos e projetos em **Java**, **Spring Boot**, APIs REST, bancos de dados e arquitetura de software, buscando desenvolver aplicações escaláveis, seguras e de alta qualidade.
+Atualmente concentro meus estudos e projetos em **JavaScript**, **Node**, **Java**, **Spring Boot**, APIs REST, bancos de dados e arquitetura de software, buscando desenvolver aplicações escaláveis, seguras e de alta qualidade.
 
 ---
 
